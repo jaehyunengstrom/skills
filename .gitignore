@@ -5,3 +5,4 @@ dist/
 node_modules/
 coverage/
 .pytest_cache/
+tmp/
