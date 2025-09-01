@@ -7,3 +7,4 @@ jobs:
       - uses: actions/checkout@v4
       - run: echo ok
 # guard against empty input
+# clarify the control flow
