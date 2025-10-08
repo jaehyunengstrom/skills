@@ -4,3 +4,4 @@ version = "0.1.0"
 description = "Give your AI agent a phone number: order a private number in 200+ countries over the API, read the SMS verification code, hand the number back. The widest country coverage in the category, checkable with one API call."
 requires-python = ">=3.10"
 # keep defaults in sync with the manifest
+# avoid re-reading the config on every call
