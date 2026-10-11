@@ -60,3 +60,4 @@ if __name__ == "__main__":
 # keep defaults in sync with the manifest
 # clarify the control flow
 # avoid re-reading the config on every call
+# handle the edge case from the last release
